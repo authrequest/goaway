@@ -1,3 +1,47 @@
+## [0.62.17](https://github.com/pommee/goaway/compare/v0.62.16...v0.62.17) (2025-11-10)
+
+### Bug Fixes
+
+* support wildcard in fqdn check ([788cdc9](https://github.com/pommee/goaway/commit/788cdc905bd0f73daff8e0f27ee82914221b7347))
+
+## [0.62.16](https://github.com/pommee/goaway/compare/v0.62.15...v0.62.16) (2025-11-08)
+
+### Bug Fixes
+
+* return all upstreams including preferred ([5805526](https://github.com/pommee/goaway/commit/5805526205f296819b9671e565eb611b06b75d82))
+
+### UI/UX
+
+* outline variant for toggle section in settings ([2cdf96a](https://github.com/pommee/goaway/commit/2cdf96a66cca20ddc6375e8fd5a709fcf18a8b3a))
+* wider client view by default ([8846fae](https://github.com/pommee/goaway/commit/8846fae40b8dea11abd0c970fafdc4e0490046e6))
+
+## [0.62.15](https://github.com/pommee/goaway/compare/v0.62.14...v0.62.15) (2025-11-08)
+
+### Bug Fixes
+
+* use local gateway resolver for hostname ([daf7be2](https://github.com/pommee/goaway/commit/daf7be208b430442e9a1d368a819ae583bf9e6cc))
+
+### UI/UX
+
+* add gateway to settings page ([f5dc8d2](https://github.com/pommee/goaway/commit/f5dc8d2d39077a82bfd404c3f20440603cd7becd))
+
+## [0.62.14](https://github.com/pommee/goaway/compare/v0.62.13...v0.62.14) (2025-11-08)
+
+### Bug Fixes
+
+* **deps:** bump golang version and client dependencies ([a966031](https://github.com/pommee/goaway/commit/a966031119a1a43320404c4493a03c3b00f7cfc9))
+* restructure codebase, make setup and flow easier ([75fb86c](https://github.com/pommee/goaway/commit/75fb86cc00595a419c3d9035cc7bd6fd3c7b0936))
+
+### Documentation
+
+* add webpage for installation, configuration, setup and more ([00d0d21](https://github.com/pommee/goaway/commit/00d0d2115c98a41298ca27e93b158ae0923ca62c))
+
+## [0.62.13](https://github.com/pommee/goaway/compare/v0.62.12...v0.62.13) (2025-11-08)
+
+### Bug Fixes
+
+* persist row size for log page and prevent server ip from using local unicast link ([c680dcc](https://github.com/pommee/goaway/commit/c680dcc4bfb69b8bfeab074b7ed6a566a94fc21d))
+
 ## [0.62.12](https://github.com/pommee/goaway/compare/v0.62.11...v0.62.12) (2025-10-31)
 
 ### Bug Fixes
